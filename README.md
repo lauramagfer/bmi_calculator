@@ -1,2 +1,13 @@
 # bmi_calculator
-A BMI calculator
+
+O objetivo desse projeto é fortalecer a lógica de programação através de uma calculadora de IMC. 
+
+### Funcionamento
+
+O programa pode ser utilizado por meio do terminal de uma IDE. 
+Assim que ele é iniciado, é solicitado ao usuário duas informações: sua altura e seu peso. 
+Tendo essas informações, o algoritmo realiza o cálculo de IMC do usuário, trazendo também sua classificação. 
+
+Exemplo: 
+
+<img width="523" height="183" alt="image" src="https://github.com/user-attachments/assets/9aa3fe91-5fe0-41e7-ab1f-5fad52b57356" />
