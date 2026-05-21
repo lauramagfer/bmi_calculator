@@ -1,4 +1,4 @@
-# bmi_calculator
+# java_bmi_calculator
 
 O objetivo desse projeto é fortalecer a lógica de programação através de uma calculadora de IMC. 
 
