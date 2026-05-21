@@ -11,3 +11,9 @@ Tendo essas informações, o algoritmo realiza o cálculo de IMC do usuário, tr
 Exemplo: 
 
 <img width="523" height="183" alt="image" src="https://github.com/user-attachments/assets/9aa3fe91-5fe0-41e7-ab1f-5fad52b57356" />
+
+---
+
+### Conceitos aprendidos
+
+Mediante esse projeto, pude aprender mais sobre estruturas condicionais aninhadas, estruturas repetivivas (do-while para o usuário decidir se vai realizar outro cálculo antes de finalizar) e fórmulas. 
